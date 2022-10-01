@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://gorse-react-porto.netlify.app/)**
 
-- ⚡ Fun fact **I Play Game**
+- ⚡ Fun fact **I Play Game & Watch Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" width="27%">
