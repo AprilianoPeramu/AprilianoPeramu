@@ -1,47 +1,30 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Apriliano Peramu</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+# Hi, I'm Apriliano Peramu 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aprilianoperamu&label=Profile%20views&color=0e75b6&style=flat" alt="aprilianoperamu" /> </p>
+A passionate frontend developer from Indonesia.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![Profile views](https://komarev.com/ghpvc/?username=aprilianoperamu&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React Js, Javascript**
+- 🌱 I’m currently learning **React.js, JavaScript**.
+- 📫 How to reach me: **[gaminggorse@gmail.com](mailto:gaminggorse@gmail.com)**.
+- 👨‍💻 You can check out my projects on my **[Portfolio](https://gorse-react-porto.netlify.app/)**.
+- ⚡ Fun fact: **I Play Games & Watch Anime**.
 
-- 📫 How to reach me **gaminggorse@gmail.com**
+## 📞 Connect with Me
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://gorse-react-porto.netlify.app/)**
+- [Facebook](https://fb.com/gorseperamu)
+- [Instagram](https://instagram.com/gorse_peramu)
+- [Twitter](https://twitter.com/)
 
-- ⚡ Fun fact **I Play Game & Watch Anime**
+## 🚀 Languages & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" width="27%">
-<a href="https://fb.com/gorse peramu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gorse peramu" height="30" width="40" /></a>
-<a href="https://instagram.com/gorse_peramu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorse_peramu" height="30" width="40" /></a>
-</p>
+- HTML5, CSS3, JavaScript
+- React.js, Node.js
+- Bootstrap, Git, Figma
 
+## 📊 GitHub Stats
 
-## 🚀 Languages and Tools:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aprilianoperamu&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26px"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26px"/>
-</p>
-
-<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aprilianoperamu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aprilianoperamu" /></p>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AprilianoPeramu&show_icons=true&theme=tokyonight"/>
-
-
-<br/>
-<br/>
-
-<br/>
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AprilianoPeramu&show_icons=true&theme=tokyonight)
