@@ -1,25 +1,25 @@
 # Hi, I'm Apriliano Peramu 👋
 
-A passionate frontend developer from Indonesia.
+![Profile Picture](https://avatars.githubusercontent.com/u/yourprofilepic.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=aprilianoperamu&label=Profile%20views&color=0e75b6&style=flat)
+I create stuff with mouse 🖱️ and keyboard ⌨️
+
+## 🚀 Social Links
+
+[![Twitter Badge](https://img.shields.io/twitter/follow/aprilianoperamu?style=social)](https://twitter.com/aprilianoperamu) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-3f729b?style=social&logo=instagram)](https://instagram.com/gorse_peramu)  
+[![Blog Badge](https://img.shields.io/badge/-Blog-000000?style=social&logo=ghost)](https://your-blog-link.com)
+[![Website Badge](https://img.shields.io/badge/-Website-00A5FF?style=social&logo=google-chrome)](https://gorse-react-porto.netlify.app/)
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React.js, JavaScript**.
+- 🌱 I’m currently learning **React.js** and **JavaScript**.
 - 📫 How to reach me: **[gaminggorse@gmail.com](mailto:gaminggorse@gmail.com)**.
-- 👨‍💻 You can check out my projects on my **[Portfolio](https://gorse-react-porto.netlify.app/)**.
+- 👨‍💻 All my projects are available at my **[Portfolio](https://gorse-react-porto.netlify.app/)**.
 - ⚡ Fun fact: **I Play Games & Watch Anime**.
-
-## 📞 Connect with Me
-
-- [Facebook](https://fb.com/gorseperamu)
-- [Instagram](https://instagram.com/gorse_peramu)
-- [Twitter](https://twitter.com/)
 
 ## 🚀 Languages & Tools
 
-- HTML5, CSS3, JavaScript
-- React.js, Node.js
-- Bootstrap, Git, Figma
-
+- **Languages**: HTML5, CSS3, JavaScript
+- **Frameworks**: React.js, Node.js
+- **Tools**: Git, Figma, Bootstrap
