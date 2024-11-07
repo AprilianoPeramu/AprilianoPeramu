@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://twitter.com/aprilianoperamu" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-E34F26?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/gorse_peramu" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
