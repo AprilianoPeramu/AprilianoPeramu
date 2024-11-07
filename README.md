@@ -13,16 +13,16 @@
 
 <p align="center">
   <a href="https://twitter.com/aprilianoperamu" target="blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20On-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://instagram.com/gorse_peramu" target="blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20On-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://linkedin.com/in/aprilianoperamu" target="blank">
-    <img src="https://img.shields.io/badge/Connect%20On-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://gorse-react-porto.netlify.app/" target="blank">
-    <img src="https://img.shields.io/badge/Check%20Out%20My-Portfolio-00A5FF?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/-Portfolio-00A5FF?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
