@@ -23,8 +23,3 @@ A passionate frontend developer from Indonesia.
 - React.js, Node.js
 - Bootstrap, Git, Figma
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aprilianoperamu&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AprilianoPeramu&show_icons=true&theme=tokyonight)
