@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Apriliano Peramu 👋</h1>
 
-<h3 align="center">Frontend Developer | React Enthusiast | JavaScript Lover</h3>
+<h3 align="center">Web Developer | React Enthusiast | JavaScript Lover</h3>
 
 <p align="center">
   <a href="https://twitter.com/aprilianoperamu" target="blank">
